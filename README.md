@@ -1,5 +1,7 @@
 # Star Wars - BB8 
 
+Animação realizada apenas com HTML e CSS sob orientação do Justas Galaburda.
+
 ## Tecnologias utilizadas:
 
 - HTML
