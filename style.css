@@ -7,8 +7,9 @@ body {
   background: #eee;
 }
 
-h1{
-   position: center;
+
+h1 {
+    text-align: center;
 }
 
 .artboard {
